@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
    
+    //test med kommentar
     
     
     //let cardArray =  ["cardClubs2","cardClubs3","cardClubs4","cardClubs5","cardClubs6","cardClubs7", "cardClubs8" ]
